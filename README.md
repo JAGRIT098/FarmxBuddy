@@ -1,16 +1,19 @@
-# farmxbuddy2
+FarmxBuddy 🌾🌱
 
-A new Flutter project.
+FarmxBuddy is a smart Flutter-based agricultural assistant designed to help farmers analyze soil quality, receive crop recommendations, and improve farming efficiency using AI-powered insights (AgriVIT-SSL).
 
-## Getting Started
+🌟 Features
+	•	📸 Soil Analysis – Upload soil images to get instant soil type detection and suitable crop suggestions.
+	•	📊 Crop Recommendations – Get personalized crop recommendations based on soil quality.
+	•	💡 Farming Tips – Access best practices for irrigation, fertilization, and soil improvement.
+	•	🔒 User Authentication – Secure login and registration for personalized recommendations.
 
-This project is a starting point for a Flutter application.
+🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+To set up the project, clone the repository and run:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter pub get
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Contribute to FarmxBuddy and help revolutionize agriculture! 🌍🚜
